@@ -7,7 +7,7 @@
  
 <br>
 
-O Santander Coders é um programa com o objetivo de ensinar e especializar pessoas interessadas por tecnologia e que desejam se destacar no mercado de trabalho.
+<p align="center"> O Santander Coders é um programa com o objetivo de ensinar e especializar pessoas interessadas por tecnologia e que desejam se destacar no mercado de trabalho.</p>
  
 ###
 
@@ -15,9 +15,12 @@ O Santander Coders é um programa com o objetivo de ensinar e especializar pesso
 
 ##
 
-<h3>Tecnologia usada:</h3>
+<div align="center">
+
+<h3 align="center">Tecnologia usada:</h3>
 
 <br>
 
-<img align="center" alt="Símbolo Python" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+<img alt="Símbolo Python" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 
+</div>
